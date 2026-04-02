@@ -5,7 +5,7 @@
  * KONFIGURASI: Ganti API_URL dengan output Terraform (api_gateway_url)
  */
 
-const API_URL = "https://nuzkkf60w2.execute-api.us-east-1.amazonaws.com/prod/orders";
+const API_URL = "https://0mtnvvjfc6.execute-api.us-east-1.amazonaws.com/prod/orders";
 
 // ─── State ───────────────────────────────────────
 let items = [];
